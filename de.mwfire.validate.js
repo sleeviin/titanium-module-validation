@@ -20,13 +20,7 @@
  */
 var errors = [];
 
-/**
- * Underscore goodness
- * @property _
- * @type {Object}
- * @private
- */
-var _ = require('/lib/underscore')._;
+
 
 /**
  * Error messages
